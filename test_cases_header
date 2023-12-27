@@ -1,0 +1,42 @@
+Przypadki testowe aplikacji webowej out4.fun
+
+Link do dokumentacji aplikacji https://out4.slite.page/p/NpWZeg7a16Ghec/Funkcjonalnosci 
+
+Tytuł: Widok nagłówka  
+Opis: Sprawdzenie czy nagłówek występuje na stronie głównej i każdej podstronie aplikacji
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji:
+1.	Uruchom stronę https://mydog-1247b.web.app/ 
+2.	Kliknij przycisk:
+- Dodaj nowy 
+- Regulamin
+- Polityka prywatności 
+Oczekiwany rezultat: Nagłówek pojawi na stronie głównej i każdej podstronie aplikacji
+
+Tytuł: Widok mapy - logo
+Opis: Sprawdzenie czy po naciśnięciu logo wyświetli się mapa
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji:
+1.	Uruchom stronę https://mydog-1247b.web.app/ 
+2.	Po kliknięciu w logo wyświetla się mapa o nazwie ,,Gdzie chcesz spędzić czas z dzieckiem?’’
+Oczekiwany rezultat: Po naciśnięciu w logo pojawi się mapa
+
+Tytuł: Widok mapy- bieżąca zakładka 
+Opis: W bieżącej zakładce otwiera się ekran Mapa
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji:
+1.Uruchom stronę https://mydog-1247b.web.app/ 
+2.Kliknij przycisk:
+- „+Dodaj nowy” a następnie wybierz ,,Mapa” , 
+- „Regulamin” a potem kliknij ,,Mapa”, 
+- „Polityka prywatności” a następnie wciśnij „Mapa”  
+3. Sprawdź czy mapa otwiera się w bieżącej zakładce
+Oczekiwany rezultat: Mapa otworzy się w bieżącej zakładce
+
+Tytuł: Wyświetlanie się ekranu „Nowa atrakcja”
+Opis: Sprawdzenie czy po naciśnięciu na ,,+Dodaj nowy” w bieżącej zakładce otwiera się ekran Nowa atrakcja 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji:
+1.Uruchom stronę https://mydog-1247b.web.app/ 
+2.Kliknij przycisk „+Dodaj nowy” 
+Oczekiwany rezultat: Ekran ,,Nowa atrakcja’’ otworzy się w bieżącej zakładce
