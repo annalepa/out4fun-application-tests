@@ -1,0 +1,31 @@
+Przypadki testowe aplikacji webowej out4.fun
+
+Link do dokumentacji aplikacji https://out4.slite.page/p/NpWZeg7a16Ghec/Funkcjonalnosci 
+
+Tytuł: Zgoda na pliki cookies- strona główna 
+Opis: Sprawdzenie czy informacja o używaniu plików cookies pojawia się na stronie głównej przy pierwszym wejściu do aplikacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome, wyczyszczone pliki cookies 
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2.  Wyświetla się popup ,,Używamy plików cookie’’ – zaznacz ,,Zgoda’’
+Oczekiwany rezultat: Informacja o używaniu plików cookies pojawia się na stronie głównej aplikacji przy pierwszym wejściu do aplikacji 
+
+Tytuł: Zgoda na pliki cookies – regulamin 
+Opis: Sprawdzenie czy informacja o używaniu plików cookies pojawia się w regulaminie przy pierwszym wejściu do aplikacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome, wyczyszczone pliki cookies 
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2. Naciśnij przycisk ,,Regulamin’’ znajdujący się na dole strony
+3. Wyczyść cookies 
+4. Odśwież stronę
+Oczekiwany rezultat: Informacja o używaniu plików cookies pojawia się na stronie regulaminu aplikacji przy pierwszym wejściu do aplikacji 
+
+Tytuł: Zgoda na pliki cookies – polityka prywatności 
+Opis: Sprawdzenie czy informacja o używaniu plików cookies pojawia się po wejściu na politykę prywatności przy pierwszym wejściu do aplikacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome, wyczyszczone pliki cookies 
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2. Naciśnij przycisk ,,Polityka prywatności’’ znajdujący się na dole strony
+3. Wyczyść cookies 
+4. Odśwież stronę
+Oczekiwany rezultat: Informacja o używaniu plików cookies pojawia się po wejściu na stronę polityki prywatności aplikacji przy pierwszym wejściu do aplikacji 
