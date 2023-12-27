@@ -1,0 +1,45 @@
+Przypadki testowe aplikacji webowej out4.fun
+
+Link do dokumentacji aplikacji https://out4.slite.page/p/NpWZeg7a16Ghec/Funkcjonalnosci 
+
+Tytuł: Widok stopki 
+Opis: Sprawdzenie czy stopka występuje na stronie głównej i każdej podstronie aplikacji
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji:
+1.Uruchom stronę https://mydog-1247b.web.app/ 
+2.Kliknij przycisk:
+- „+Dodaj nowy” 
+- „Regulamin”  
+- „Polityka prywatności”  
+3. Sprawdź czy stopka tj. regulamin i polityka prywatności znajduje się na stronie głównej i każdej podstronie aplikacji 
+Oczekiwany rezultat: Stopka znajduje się na stronie głównej i każdej podstronie aplikacji 
+
+Tytuł: Stopka- otwieranie się w bieżącej zakładce 
+Opis: Sprawdzenie czy regulamin i polityka prywatności otwierają się w zakładce bieżącej 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji: 
+1.Uruchom stronę https://mydog-1247b.web.app/ 
+2.Kliknij przycisk:
+- „Regulamin” 
+- „Polityka prywatności” 
+3. Sprawdź czy otwierają się w bieżącej zakładce
+Oczekiwany rezultat: Regulamin i polityka prywatności otwierają się w bieżącej zakładce
+
+Regulamin
+Tytuł: Widok i wersja regulaminu aplikacji 
+Opis: Sprawdzenie czy regulamin spełnia kryteria zapisane w dokumentacji aplikacji oraz czy wyświetlają się wersje regulaminu 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2. Kliknij przycisk „Regulamin” znajdujący się w lewym dolnym rogu aplikacji 
+3. Kliknij ,,Obowiązuje od 2.08.2023’’
+Oczekiwany rezultat: Regulamin otwiera się na nowej karcie. Widać wersję regulaminu.
+
+Tytuł: Widok i wersja polityki prywatności aplikacji 
+Opis: Sprawdzenie czy polityka prywatności spełnia kryteria zapisane w dokumentacji aplikacji oraz czy wyświetlają się wersje polityki prywatności 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome 
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2. Kliknij przycisk „Polityka prywatności” znajdujący się w lewym dolnym rogu aplikacji 
+3. Kliknij ,, Obowiązuje od 2.08.2023’’ 
+Oczekiwany rezultat: Polityka prywatności otwiera się na nowej karcie. Widać jej wersję.
