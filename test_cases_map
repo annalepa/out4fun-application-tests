@@ -1,1 +1,9 @@
+Tytuł: Widok krzyżyka ,,start’’ na mapie 
+Opis: Sprawdzenie czy po zaznaczeniu zgody na użycie lokalizacji krzyżyk z napisem ,,start" znajduje się w miejscu zamieszkania użytkownika  
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2.  Kliknij ,,Zezwalaj’’ na komunikacie dotyczącym lokalizacji użytkownika
+
+Oczekiwany rezultat: Krzyżyk z napisem ,,start’’ zaznacza na mapie lokalizację użytkownika. 
 
