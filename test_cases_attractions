@@ -1,0 +1,68 @@
+Atrakcje 
+
+
+Tytuł: Widok atrakcji 
+Opis: Sprawdzenie czy atrakcje znajdujące się do 50 km od miejsca zamieszkania, pod gołym niebem, płatne, zawierają wszystkie elementy umieszczone w dokumentacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2. Wybierz ,,do 100 km’’ znajdujący się pod napisem „Od miejsca wskazanego na mapie:’’
+3. Wybierz ,,Płatne’’ 
+
+Oczekiwany rezultat: Atrakcje zawierają:
+•	nazwę
+•	typ atrakcji 
+•	informację czy jest płatna/darmowa 
+•	informację czy jest zadaszona/pod gołym dachem 
+•	przycisk "Strona www" 
+•	reklamę
+
+Tytuł: Widok atrakcji 
+Opis: Sprawdzenie czy atrakcje znajdujące się do 100 km od miejsca zamieszkania, pod gołym niebem, płatne, zawierają wszystkie elementy umieszczone w dokumentacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2.  Wybierz ,,do 100 km’’ znajdujący się pod napisem „Od miejsca wskazanego na mapie:’’
+3. Wybierz ,,Płatne’’ 
+
+Oczekiwany rezultat: Atrakcje zawierają:
+•	nazwę
+•	typ atrakcji 
+•	informację czy jest płatna/darmowa 
+•	informację czy jest zadaszona/pod gołym dachem 
+•	przycisk "Strona www" 
+•	reklamę
+
+Tytuł: Widok atrakcji 
+Opis: Sprawdzenie czy atrakcje znajdujące się do 200 km od miejsca zamieszkania, pod gołym niebem, płatne, zawierają wszystkie elementy umieszczone w dokumentacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2.  Wybierz ,,do 200 km’’ znajdujący się pod napisem „Od miejsca wskazanego na mapie:’’
+3. Wybierz ,,Płatne’’ 
+
+Oczekiwany rezultat: Atrakcje zawierają:
+•	nazwę
+•	typ atrakcji 
+•	informację czy jest płatna/darmowa 
+•	informację czy jest zadaszona/pod gołym dachem 
+•	przycisk "Strona www" 
+•	reklamę
+
+Tytuł: Widok atrakcji 
+Opis: Sprawdzenie czy atrakcje znajdujące się do 500 km od miejsca zamieszkania, pod gołym niebem, płatne, zawierają wszystkie elementy umieszczone w dokumentacji 
+Warunek początkowy: Zainstalowana przeglądarka Google Chrome
+Kroki reprodukcji: 
+1. Uruchom stronę https://mydog-1247b.web.app/ 
+2.  Wybierz ,,do 500 km’’ znajdujący się pod napisem „Od miejsca wskazanego na mapie:’’
+3. Wybierz ,,Płatne’’ 
+
+Oczekiwany rezultat: Atrakcje zawierają:
+•	nazwę
+•	typ atrakcji 
+•	informację czy jest płatna/darmowa 
+•	informację czy jest zadaszona/pod gołym dachem 
+•	przycisk "Strona www" 
+•	reklamę
+
+
